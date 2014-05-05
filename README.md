@@ -39,5 +39,5 @@ the Hoodie admin interface available at http://127.0.0.1:6002
 
 **The admin password is "changeme"**. Since there isn't an option to do
 that in the Hoodie admin interface atm, you should go to
-http://127.0.0.1:6002/\_api/\_utils and click the 'Change password' link in
+http://127.0.0.1:6002/_api/_utils and click the 'Change password' link in
 the bottom right corner.
