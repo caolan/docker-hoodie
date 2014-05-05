@@ -18,7 +18,6 @@ RUN useradd --create-home --user-group --shell /bin/bash hoodie
 
 # create hoodie project
 RUN cd /home/hoodie && sudo -u hoodie HOME=/home/hoodie hoodie new project
-RUN sudo -u hoodie mkdir /home/hoodie/project/data
 
 ENV HOODIE_SETUP_PASSWORD changeme
 
