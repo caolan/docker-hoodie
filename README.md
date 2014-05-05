@@ -1,6 +1,6 @@
 # Hoodie Dockerfile
 
-**Warning: not recommended for production use yet**
+**Warning: not recommended for production use**
 
 This docker file bundles together Node.js, CouchDB and Hoodie to make it
 easy to try out Hoodie without having to install dependencies manually. For
